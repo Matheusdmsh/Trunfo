@@ -1,0 +1,2 @@
+# Trunfo
+Tunfo em C
